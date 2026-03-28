@@ -51,9 +51,7 @@
 ---
 
 ### 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:harrishkalyanasundaram@gmail.com">📧 Email</a>
-</p>
+📧 harrishkalyanasundaram@gmail.com
 
 ---
 
