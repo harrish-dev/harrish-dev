@@ -11,7 +11,7 @@
 - 🧠 Strong interest in coding, automation & system design  
 - 🚀 Building full-stack projects to level up real-world skills  
 - ☁️ Exploring Cloud, Docker & modern DevOps tools  
-- 📈 Focused on consistent growth and learning in public  
+- 📈 Focused on consistent growth and learning  
 
 ---
 
@@ -37,8 +37,7 @@
 
 ---
 
-### 🚀 Featured Projects
-- 🔹 Weather App (Python)  
+### 🚀 Featured Projects  
 - 🔹 Syncspace (Java)  
 - 🔹 Project Beta (Full Stack)  
 
