@@ -7,10 +7,11 @@
 ---
 
 ### ☕ About Me
-- ☕ Turning coffee into code  
-- 🚀 Shipping ideas into reality  
-- 🌱 Learning DevOps, Cloud & Full Stack  
-- ⚡ Building consistently  
+- 💼 Workday Consultant transitioning into Software Development & DevOps  
+- 🧠 Strong interest in coding, automation & system design  
+- 🚀 Building full-stack projects to level up real-world skills  
+- ☁️ Exploring Cloud, Docker & modern DevOps tools  
+- 📈 Focused on consistent growth and learning in public  
 
 ---
 
