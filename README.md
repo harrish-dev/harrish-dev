@@ -27,7 +27,7 @@
 <h3 align="center">⚡ Developer Insights</h3>
 
 <p align="center">
-  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrish-dev&theme=github_dark" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrish-dev&theme=github_dark&hide=email" />
 </p>
 
 <p align="center">
