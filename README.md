@@ -17,22 +17,34 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,nodejs,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,nodejs,git,github,linux,docker,aws,githubactions,bash,postgres,mongodb" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harrish-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harrish-dev&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harrish-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=harrish-dev&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrish-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harrish-dev&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00F7FF&line=00F7FF&point=FFFFFF" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake (Animated)
 <p align="center">
-  <img src="https://github.com/harrish-dev/harrish-dev/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/harrish-dev/harrish-dev/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
