@@ -29,9 +29,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harrish-dev&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harrish-dev&theme=tokyonight" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harrish-dev&theme=tokyonight" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harrish-dev&theme=tokyonight" />
 </p>
+
 ---
 
 ### 🐍 Contribution Snake (Animated)
