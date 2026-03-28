@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,nodejs,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,nodejs,git,linux,docker,aws,githubactions,bash,postgres" />
 </p>
 
 ---
@@ -32,7 +32,15 @@
 
 ### 🐍 Contribution Snake (Animated)
 <p align="center">
-  <img src="https://github.com/harrish-dev/harrish-dev/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harrish-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harrish-dev&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrish-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF" />
 </p>
 
 ---
