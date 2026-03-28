@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Harrish; Workday+Consultant+→+Future+DevOps+Engineer;Building+real+world+projects;Always+learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=00F7FF&center=true&vCenter=true&width=500&repeat=false&lines=Hi+👋,+I'm+Harrish" />
 </h1>
 
 <h3 align="center">🚧 Dev in progress | 🚀 Always shipping</h3>
