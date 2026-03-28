@@ -25,14 +25,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=harrish-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="170em" src="https://streak-stats.demolab.com?user=harrish-dev&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrish-dev&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrish-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harrish-dev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harrish-dev&theme=tokyonight" />
 </p>
-
 ---
 
 ### 🐍 Contribution Snake (Animated)
